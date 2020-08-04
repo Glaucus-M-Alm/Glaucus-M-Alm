@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there My name is Glaucus👋
 
 <!--
-**Glaucus-M-Alm/Glaucus-M-Alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Learning more about coding
-- 🌱 I’m currently learning ... Web-developing
+- 🌱 I study at ... Coltec-UFMG, System Development 3rd year
 - 👯 I’m looking to collaborate on ... Cool projects
-- 🤔 I’m looking for help with ... Stop procrastinating(NLW is kinda helping with that)
+- 🤔 I’m looking for help with ... Reaching the next level in coding in general
 - 💬 Ask me about ... My day
 - 📫 How to reach me: ... My email is: glaucusmiral@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like Editing and acting.
+- ⚡ Fun fact: ... I like Editing, acting.
 -->
